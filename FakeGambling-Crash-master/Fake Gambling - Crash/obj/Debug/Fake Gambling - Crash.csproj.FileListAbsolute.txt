@@ -1,0 +1,10 @@
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\bin\Debug\Fake Gambling - Crash.exe.config
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\bin\Debug\Fake Gambling - Crash.exe
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\bin\Debug\Fake Gambling - Crash.pdb
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\Fake Gambling - Crash.csprojAssemblyReference.cache
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\FakeGambling.Crash.resources
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\FakeGambling.Properties.Resources.resources
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\Fake Gambling - Crash.csproj.GenerateResource.cache
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\Fake Gambling - Crash.exe
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\Fake Gambling - Crash.pdb
+E:\Downloads\FakeGambling-Crash-master\FakeGambling-Crash-master\Fake Gambling - Crash\obj\Debug\Fake Gambling - Crash.csproj.CoreCompileInputs.cache
